@@ -90,3 +90,10 @@ abc121
 abc211
 abc211
 ```
+
+## Improvements
+
+Potential improvements include:
+
+- user-defined special character set, permutation length
+- user-defined username length, and checks for valid permutations against given length
