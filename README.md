@@ -15,6 +15,7 @@ Currently, the script does not repeat elements, and will only have one instance 
 Each argument is an "element" in your target's username that's commonly used. For instance, if your target's usernames usually have "tiger" and "42" in it, those would be your elements. Its input format would be `tiger,42`.
 
 **-i, --input**: A comma separated array of elements of a username
+
 **-s, --special**: A boolean flag (Python syntax) to include the special characters `.-_`
 
 ### Results
